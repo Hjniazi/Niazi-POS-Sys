@@ -1,6 +1,6 @@
-# JadoonPOS - Point of Sale Application
+# NiaziPOS - Point of Sale Application
 
-JadoonPOS is a feature-rich desktop Point of Sale (POS) application built with Python and PyQt5. It provides a comprehensive set of tools for managing sales, inventory, products, and customers, making it suitable for small to medium-sized retail businesses.
+NiaziPOS is a feature-rich desktop Point of Sale (POS) application built with Python and PyQt5. It provides a comprehensive set of tools for managing sales, inventory, products, and customers, making it suitable for small to medium-sized retail businesses.
 
 ## Features
 
